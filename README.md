@@ -1,7 +1,5 @@
 # Communication-between-Physically-Challenged
 
-# Morse Code Input with Button, LED, and Buzzer
-
 This Arduino project allows a user to input Morse code using a push button. The LED and buzzer provide real-time visual and audio feedback corresponding to dots and dashes.
 
 ## Components Used
