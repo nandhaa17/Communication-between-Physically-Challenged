@@ -12,6 +12,14 @@ This Arduino project allows a user to input Morse code using a push button. The 
 - 10kΩ resistor (for button pull-down or pull-up)
 - Breadboard and jumper wires
 
+## Wiring Diagram
+
+| Component     | Arduino Pin |
+|---------------|-------------|
+| Push Button   | 12          |
+| LED           | 10          |
+| Buzzer        | 9           |
+
 ## How to Use
 
 1. Wire the components as described.
