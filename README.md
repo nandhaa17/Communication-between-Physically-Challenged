@@ -23,7 +23,7 @@ This Arduino project allows a user to input Morse code using a push button. The 
 ## How to Use
 
 1. Wire the components as described.
-2. Upload the sketch to your Arduino board.
+2. Upload the sketch (file.app) to your Arduino board.
 3. Press and hold the button to enter Morse code:
    - Short press: dot (`.`)
    - Long press: dash (`-`)
